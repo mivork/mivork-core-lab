@@ -12,7 +12,7 @@
 
 ### 1. Overview & Objectives
 
-zorinix-core-lab is a comprehensive, multi-disciplinary engineering laboratory repository. It serves as a structured, professional-grade environment for continuous learning, full-stack project development, technical research, systems experimentation, and daily activity logging.
+mivork-core-lab is a comprehensive, multi-disciplinary engineering laboratory repository. It serves as a structured, professional-grade environment for continuous learning, full-stack project development, technical research, systems experimentation, and daily activity logging.
 
 ### 2. Author & Follow (and The Ultimate Wish)
 
