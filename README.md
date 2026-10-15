@@ -17,7 +17,7 @@ mivork-core-lab is a comprehensive, multi-disciplinary engineering laboratory re
 ### 2. Author & Follow (and The Ultimate Wish)
 
 - Maintained by **mivork**.
-- If you are interested in this project or want to follow my daily engineering journey, please check out my GitHub profile: [https://github.com/zorinix/](https://github.com/mivork/)
+- If you are interested in this project or want to follow my daily engineering journey, please check out my GitHub profile: [https://github.com/mivork/](https://github.com/mivork/)
 - Sincere Note: Honestly, I just want money and a job—or better yet, boundless wealth without ever having to work a single day again. If you want to fund a chronically lazy developer's early retirement, support via my profile is always welcome.
 
 ### 3. Comprehensive Directory Structure & Contents
